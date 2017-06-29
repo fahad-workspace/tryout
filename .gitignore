@@ -1,0 +1,22 @@
+# Log file
+*.log
+
+# Package Files
+*.zip
+*.rar
+
+*.idea
+*.imltarget
+
+# Eclipse
+*.classpath
+*.settings/
+*.project
+
+# Mac
+*.DS_Store
+
+# Maven
+log/
+target/
+*.springBeans
