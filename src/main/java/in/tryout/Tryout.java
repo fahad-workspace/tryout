@@ -1,14 +1,13 @@
 package in.tryout;
 
+class Tryout {
 
+    Tryout() {
+        super();
+    }
 
-public class Tryout {
-  public Tryout() {
-    super();
-  }
-
-  public boolean returnTrue() {
-    return true;
-  }
+    boolean returnTrue() {
+        return true;
+    }
 
 }
